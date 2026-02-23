@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/rhtap-task-runner:latest
+      - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/backend-tests-go-nlitkwqp:6d5da195595c3c1fb5ce2d85aab75503b69243d4@sha256:78a8676d767c04256dcd15d6dc1642ce3310060666c19136a91a8ce96550c4a4
         name: container-image  
